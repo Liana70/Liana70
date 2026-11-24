@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Lilian! 
 
-<!--
-**Liana70/Liana70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Aspiring Cybersecurity Professional**
 
-Here are some ideas to get you started:
+I'm a BSc Information Technology student passionate about cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My Interests
+- Cybersecurity Fundamentals
+- Network Security
+- Defensive Security
+- Ethical Hacking
+- Digital Forensics
+
+##  Currently Learning
+- Networking Fundamentals
+- Cybersecurity Principles
+- Linux Fundamentals
+
+##  My Goal
+To develop practical cybersecurity skills through continuous learning, hands-on practice, and personal projects.
+
+##  Connect With Me
+GitHub: [@Liana70](https://github.com/Liana70)
+
+---
+*Learning • Practising • Building*
